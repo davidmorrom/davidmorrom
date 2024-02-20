@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in Universidad Europea de Madrid<br>🤝 I’m looking for help with Java projects and all types of BBDD stuff<br>🌱 I’m currently learning Android App development and GUI development in python
+🔭 I’m currently studying in Universidad Europea de Madrid<br>🤝 I’m looking to help with Java projects and all types of BBDD stuff<br>🌱 I’m currently learning Android App development and GUI development in python
 
 
 ## 🌐 Socials:
