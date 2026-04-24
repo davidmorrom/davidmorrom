@@ -51,5 +51,6 @@ Me gusta mezclar el enfoque técnico con la atención al cliente:
 ## 🌐 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmorrom)
 
+---
 
 [![](https://visitcount.itsvg.in/api?id=davidmorrom&icon=0&color=0)](https://visitcount.itsvg.in)
