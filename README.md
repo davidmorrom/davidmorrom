@@ -46,10 +46,6 @@ Me gusta mezclar el enfoque técnico con la atención al cliente:
 - SQL & Linux Administration
 - Sage 200 (Gestión, Producción, Análisis de Negocio)
 
----
-
-## 🌐 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmorrom)
 
 ---
 
