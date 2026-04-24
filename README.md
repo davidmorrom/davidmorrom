@@ -1,15 +1,46 @@
-# 💫 About Me:
-🔭 I’m currently studying in Universidad Europea de Madrid<br>🤝 I’m looking to help with Java projects and all types of BBDD stuff<br>🌱 I’m currently learning Android App development and GUI development in python
+# 💫 Sobre mí
+Soy David Moreno Romero, consultor tecnológico especializado en Sage 200, integración de sistemas y desarrollo de software. Trabajo en soluciones que conectan ERP con entornos web, automatizan procesos y transforman datos en valor real para las empresas.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmorrom) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/davidmorrom) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💼 Consultor Junior ERP Sage 200 en ORS Consulting
+- 🌐 Arquitecto de soluciones web con Next.js y experiencia en integración EDI
+- 🛠️ Data engineering, SQL Server, UDFs y automatización de procesos
+- 🔒 En formación continua en ciberseguridad y seguridad por diseño
 
 ---
+
+## 🚀 Actualmente
+Construyo y optimizo ecosistemas digitales que combinan:
+
+- Integración de Sage 200 con procesos de negocio a medida
+- Desarrollo de soluciones internas y conectores externos
+- Arquitecturas web corporativas orientadas a rendimiento y SEO
+- Gestión de despliegues, dominios y experiencia de usuario en producción
+
+---
+
+## 🧠 Mi estilo de trabajo
+Me gusta mezclar el enfoque técnico con la atención al cliente:
+
+- Traduzo requisitos empresariales en soluciones técnicas claras
+- Analizo datos de SQL Server y diseño modelos robustos
+- Personalizo funcionalidades con UDFs y lógica de negocio
+- Acompaño a los clientes en la adopción y soporte de la plataforma
+
+---
+
+## 💻 Stack & herramientas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230077B5.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Power Platform](https://img.shields.io/badge/Power%20Platform-%235C2D91.svg?style=for-the-badge&logo=microsoft-powerbi&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌐 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmorrom)
+
+---
+
+### ✍️ Último commit mental
+> “Si tu ERP no habla con tu web, probablemente esté escribiendo código en solitario.”
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=davidmorrom&icon=0&color=0)](https://visitcount.itsvg.in)
