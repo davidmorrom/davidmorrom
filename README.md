@@ -46,12 +46,10 @@ Me gusta mezclar el enfoque técnico con la atención al cliente:
 - SQL & Linux Administration
 - Sage 200 (Gestión, Producción, Análisis de Negocio)
 
-
 ---
 
-### ✍️ Último commit mental
-> “Si tu ERP no habla con tu web, probablemente esté escribiendo código en solitario.”
+## 🌐 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmorrom)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=davidmorrom&icon=0&color=0)](https://visitcount.itsvg.in)
