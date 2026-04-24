@@ -33,7 +33,7 @@ Me gusta mezclar el enfoque técnico con la atención al cliente:
 
 ---
 
-## � Proyectos destacados
+## 🌟 Proyectos destacados
 - ORS Consulting: diseño y despliegue del ecosistema web corporativo con Next.js para visibilidad de servicios ERP y captación de leads.
 - Integración Sage 200: personalización de procesos, desarrollo de UDFs y automatización de flujos de datos entre ERP y sistemas externos.
 - Automatización de captación: implementación de formularios dinámicos y APIs para mejorar la generación de leads y el seguimiento comercial.
@@ -48,7 +48,7 @@ Me gusta mezclar el enfoque técnico con la atención al cliente:
 
 ---
 
-## �🌐 Contacto
+## 🌐 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmorrom)
 
 ---
